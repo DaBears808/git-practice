@@ -150,6 +150,7 @@ cd your-project-folder
 
 # 2. Start Git (only first time)
 git init
+#DONT NEED TO DO THIS
 
 # 3. Check what changed
 git status
@@ -162,9 +163,11 @@ git commit -m "Initial commit"
 
 # 6. (Optional) Connect to GitHub
 git remote add origin https://github.com/username/repository.git
+# DONT NEED TO DO THIS
 
 # 7. Push to GitHub
 git push -u origin main
+#ONLY NEED TO DO GIT PUSH
 ⭐ The 3 Most Important Commands to Remember
 If you only remember three commands, remember these:
 
